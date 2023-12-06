@@ -1,3 +1,8 @@
+// --------------------------- //
+//       ©FROSTBLACK           //
+//         WEB DEV             //
+// --------------------------- //
+
 const Discord = require('discord.js')
 const intents = new Discord.IntentsBitField(3276799)
 const bot = new Discord.Client({intents})
